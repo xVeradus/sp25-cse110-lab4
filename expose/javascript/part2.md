@@ -9,3 +9,10 @@
 9. Error, because i is out of scope(block)
 10. 3
 11. [50, 100, 150]
+
+12:   
+A. studen.name
+B. student.["Grad Year"]
+C. student.greeting()
+D. student.["Favorite Teacher"].name
+E. student.courseLoad[0]
