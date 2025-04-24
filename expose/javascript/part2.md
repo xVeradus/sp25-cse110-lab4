@@ -35,3 +35,10 @@ C.true, '2' becomes 2
 D.false, thei are not the same data type
 E.false, because for the compiler true is 1
 F.true, because Boolean(2) is true
+
+17: [2, 4, 6]
+  1. newArr (creates a new array)
+  2. in the foor loop every value gets handed to the doSomething function and then gets pushed to the top of the array
+  3. The doSomething function returns the value *2
+
+19. 1(1 Second later)2(0 Seconds later)34
