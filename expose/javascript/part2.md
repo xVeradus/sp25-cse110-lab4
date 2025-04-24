@@ -26,3 +26,11 @@ E. 4, true = 1
 F. 0, because false, and null equal 0
 G. 3undefined due to string concenation of the operator + 
 H. NaN, undefined to NaN when tried to convert to number
+
+14:
+A.true, JS converts values to number
+B.false, dictionary comparison -> 1 is smaller than 2
+C.true, '2' becomes 2
+D.false, thei are not the same data type
+E.false, because for the compiler true is 1
+F.true, because Boolean(2) is true
