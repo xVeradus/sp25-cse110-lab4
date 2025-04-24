@@ -27,6 +27,7 @@ F. 0, because false, and null equal 0
 G. 3undefined due to string concenation of the operator + 
 H. NaN, undefined to NaN when tried to convert to number
 
+15. The == operator can, depending on the operator change the datatype before the comparison. The === also compares the data types, so only if the data type and the data is equal it says true.
 14:
 A.true, JS converts values to number
 B.false, dictionary comparison -> 1 is smaller than 2
