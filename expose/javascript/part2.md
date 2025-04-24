@@ -16,3 +16,13 @@ B. student.["Grad Year"]
 C. student.greeting()
 D. student.["Favorite Teacher"].name
 E. student.courseLoad[0]
+
+13:
+A. 32, due to string concentation because of the operator +
+B. 1, because - always converts their operands to integer
+C. 3, null gets a number which is nothing
+D. 3null, due to string concenation of the operator + 
+E. 4, true = 1
+F. 0, because false, and null equal 0
+G. 3undefined due to string concenation of the operator + 
+H. NaN, undefined to NaN when tried to convert to number
